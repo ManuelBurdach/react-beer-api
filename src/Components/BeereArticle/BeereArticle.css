@@ -1,0 +1,32 @@
+.beereArticle {
+  display: flex;
+  width: 80%;
+  border-top: 2px solid black;
+  padding: 90px 50px 0 50px;
+}
+
+.beereArticle div {
+  padding: 20px;
+}
+
+.beereArticle div > * {
+  margin: 8px;
+}
+
+.beereArticle h2 {
+  font-size: 30px;
+}
+.beereArticle img {
+  width: 100px;
+}
+
+.beereArticle a > img {
+  width: 25px;
+  margin-top: 5px;
+}
+
+.beereArticle a {
+  display: inline-block;
+  padding: 6px 25px;
+  border-radius: 50%;
+}

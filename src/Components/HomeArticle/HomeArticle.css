@@ -1,0 +1,17 @@
+article {
+  display: inline-block;
+  margin: 50px;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  background-color: #ffca41;
+  color: white;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+a:hover {
+  opacity: 0.7;
+}
